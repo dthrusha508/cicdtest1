@@ -1,0 +1,7 @@
+{
+  "name":"cicdtest1",
+  "version":"1.0.0",
+  "scripts":{
+    "tests":"echo 'Running sample Test...'"
+  }
+}
